@@ -44,7 +44,6 @@ fields_of_interests:
     "Web Development",
     "Machine Learning",
     "UI/UX",
-
   ]
   
 planing to learn by the end of 2022: ["DevOps, AWS"]
