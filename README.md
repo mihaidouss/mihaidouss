@@ -46,7 +46,7 @@ fields_of_interests:
     "UI/UX",
   ]
   
-planing to learn by the end of 2022: ["DevOps, AWS"]
+planing to learn & finish by the end of 2022: ["AWS Cloud Practitioner"]
 2023 Goals: ["To be part of a software developers team and learn at least 5 new Technologies."]
 hobbies: ["Football", "Fishing", "Pets"]
 ```
